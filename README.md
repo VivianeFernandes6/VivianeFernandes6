@@ -1,6 +1,6 @@
 ## Hi, I'm Viviane Souza (Vivi) 🧚‍♀️! Welcome to my GitHub :)
 
-I'm a Data Analyst and Front-end Developer with a passion for technology and continuous learning. I thrive on challenges, which is why I'm constantly exploring topics in data analysis, artificial intelligence, and full stack development to expand my skills and knowledge.
+I'm a Data Analyst and mobile Developer with a passion for technology and continuous learning. I thrive on challenges, which is why I'm constantly exploring topics in data analysis, artificial intelligence, and full stack development to expand my skills and knowledge.
 
 ## My Stacks
 
