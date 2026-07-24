@@ -8,9 +8,6 @@ I'm a Data Analyst and mobile Developer with a passion for technology and contin
 
 ![Metrics](./github-metrics.svg)
 
- 
-</details>
-
 Follow me 🌟: 
 
 [![LinkedIn: viviane-souza](https://img.shields.io/badge/-LinkedIn-ff1493?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viviane-souza-8672391b0/)](https://www.linkedin.com/in/viviane-souza-8672391b0/)
