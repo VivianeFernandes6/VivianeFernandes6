@@ -4,9 +4,9 @@ I'm a Data Analyst and mobile Developer with a passion for technology and contin
 
 ## Analytics & Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivianeFernandes6&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=VivianeFernandes6&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeFernandes6&layout=compact&theme=tokyonight)
+![Metrics](./github-metrics.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VivianeFernandes6&theme=tokyonight)
 
