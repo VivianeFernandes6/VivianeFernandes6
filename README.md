@@ -8,8 +8,6 @@ I'm a Data Analyst and mobile Developer with a passion for technology and contin
 
 ![Metrics](./github-metrics.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VivianeFernandes6&theme=tokyonight)
-
  
 </details>
 
