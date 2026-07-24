@@ -37,6 +37,4 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 1
 
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements: no
