@@ -61,6 +61,15 @@ I enjoy turning ideas into projects, experimenting with new technologies, and un
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
+### `$ languages --top`
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeFernandes6&layout=compact&theme=transparent&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
 ### `$ ls ~/projects`
 
 **CineAll** 🎬
