@@ -65,7 +65,7 @@ I enjoy turning ideas into projects, experimenting with new technologies, and un
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeFernandes6&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=VivianeFernandes6&layout=compact&theme=transparent&hide_border=true&langs_count=6"
     alt="Most Used Languages"
   />
 </p>
